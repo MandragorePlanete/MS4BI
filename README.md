@@ -1,9 +1,9 @@
 # MS4BI
-MS4BI :  Free system Business Intelligence Windows &amp; Web
-https://www.ms4bi.com
-https://demos.ms4bi.com
-https://help.ms4bi.com
-https://www.ms4script.com     /* low code */
+MS4BI :  Free system Business Intelligence Windows &amp; Web <br>
+https://www.ms4bi.com<br>
+https://demos.ms4bi.com<br>
+https://help.ms4bi.com<br>
+https://www.ms4script.com     /* low code */<br>
 
 Discover MS4BI: Revolutionize Your Business Intelligence
 MS4BI is not just a BI tool: it’s an agile, powerful, and accessible solution designed to optimize your analyses and decisions.
